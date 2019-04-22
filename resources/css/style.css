@@ -45,8 +45,7 @@ footer{
 	color: white;
 }
 
-footer li{
-	list-style: none;
+footer a{
 	display: inline;
 	padding-right: 5px;
 	text-decoration: none;
