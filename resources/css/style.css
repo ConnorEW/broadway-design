@@ -20,6 +20,7 @@ body{
 	padding-bottom: 5px;
 	list-style: none;
 	color: white;
+	text-decoration: none;
 }
 
 .subtitle{
@@ -29,6 +30,9 @@ body{
 	font-weight: bold;
 }
 
+a{
+	text-decoration: none;
+}
 
 h3{
 	font-weight: bold;
@@ -45,4 +49,5 @@ footer li{
 	list-style: none;
 	display: inline;
 	padding-right: 5px;
+	text-decoration: none;
 }
